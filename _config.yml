@@ -1,0 +1,41 @@
+theme: jekyll-theme-minimal
+title: Ashot Vardanian
+description: Adventurous AI Researcher & Hedge Fund Director with background in Astrophysics.
+google_analytics: UA-76958351-1
+logo: "avatar.jpg"
+
+github:
+  is_project_page: false
+  owner_url: https://github.com/ashvardanian
+  owner_name: Ashot Vardanian
+  
+author:
+  name: Ashot Vardanian
+
+social_links:
+  email: "a@unum.xyz"
+  facebook: ashvardanian
+  github: ashvardanian
+  twitter: ashvardanian
+  reddit: ashvardanian
+  linkedin: ashvardanian
+  stackoverflow: "2766161/ashot-vardanian"
+  instagram: ashvardanian
+  youtube: user/ashvardanian
+  yelp: ashvardanian
+  
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
+  
