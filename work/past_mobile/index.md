@@ -33,7 +33,7 @@ One of the significant issues back then was data synchronization. Nowadays, one 
 - Use iCloud, DropBox or Google Drive for that, which were not mature at that time. 
 The first option required users to store private data on an untrusted server, managed by a teenager. Long story short, I decided to rely on large companies. A few updates later, syncing with iCloud started failing, and iOS SDK for Google Drive never worked properly in the first place, so I had to shut down the project to reduce the risk of people losing their data.
 
-![](screens_expenses.png)
+![](screens_expenses.jpg)
 
 ### Social Apps
 
