@@ -1,0 +1,201 @@
+# Positive Outlook and Opportunities <br/>In the COVID-19 Crisis
+
+## Intro
+
+The bad news is coming from every direction. Still, I believe there are enough reasons to stay positive and excited about the future! Absurdly, this positive outlook was caused by 2 seemingly negative factors:
+
+- Since the age of 15, I was convinced that the human race would likely face extinction in the 21st century. I was pretty confident that the threat would come in the form of virus, most likely from China. ~~I often shared this opinion with older people, but no one cared.~~
+
+- I am investing in the stock market for about 6 years now and I have lost about 20% of my lifetime savings in the last month.
+
+Having said that, I refuse to panic. This is a sad period in our history, but we can use it our advantage! This is the longest article I have recently written so get your snacks ready and let's dive into it! 😉
+
+**Disclaimer.** Take my words with a grain of salt. My experience is minimal, and I wasn't there during the last crisis. **[My background](https://ashvardanian.com)** isn't in economics or biology. So far, I had a relatively good track record of predicting global trends, but I am not an expert. Anyways, feel free to correct me if I am wrong!
+
+
+## Table of Contents
+
+- [Positive Outlook and Opportunities <br/>In the COVID-19 Crisis](#positive-outlook-and-opportunities-brin-the-covid-19-crisis)
+  - [Intro](#intro)
+  - [Table of Contents](#table-of-contents)
+  - [A Few Months of Discomfort](#a-few-months-of-discomfort)
+  - [Personal Growth](#personal-growth)
+  - [Financial Possibilities](#financial-possibilities)
+    - [Human Psychology 😱](#human-psychology-%f0%9f%98%b1)
+    - [Liquid Assets 🌊](#liquid-assets-%f0%9f%8c%8a)
+    - [Oil Prices 🛢️](#oil-prices-%f0%9f%9b%a2%ef%b8%8f)
+    - [Seasonality and Demographics 🏥](#seasonality-and-demographics-%f0%9f%8f%a5)
+    - [Tech to the Rescue 💻](#tech-to-the-rescue-%f0%9f%92%bb)
+    - [Longer Term Outlook 🔮](#longer-term-outlook-%f0%9f%94%ae)
+  - [Call for Action](#call-for-action)
+    - [The Budgets 💰](#the-budgets-%f0%9f%92%b0)
+    - [The Borders 🛂](#the-borders-%f0%9f%9b%82)
+  - [The End](#the-end)
+
+## A Few Months of Discomfort
+
+Preparing for the future is essential, but it's meaningless if we can't get there. Luckily, we have some good news here! To stay safe we only need to follow a few simple rules:
+
+- Minimize interactions with other people ~~and embrace your inner introvert~~!
+- Wash hands with soap frequently ~~regardless of the virus~~!
+- Don't touch your face with dirty hands ~~as it's a bad habit~~!
+
+So far, the governments were slow to react, which is weird as a big part of politicians falls into the danger zone. The average politician is [53 years old](http://archive.ipu.org/gpr-e/media/index.htm), while the average human is [under 30](https://ourworldindata.org/age-structure). Stats aside, almost every major country had introduced at least some form of quarantine, and I am pretty sure it will work! That's old news, let's see what's next!
+
+## Personal Growth
+
+Most people can't afford the luxury of staying home for a few months. They rely on their current job to receive immediate income, but the job market is changing rapidly, and people need to adopt. But when?
+
+The answer is: Now. The governments around the globe are considering aid packages for households, so many people will essentially [receive Universal Basic Income](https://www.ft.com/content/927d28e0-6847-11ea-a6ac-9122541af204) and have enough time to learn new skills from home. Online learning services have already announced new courses, but I suggest focusing on languages (in a broad sense).
+
+- Spoken languages to exchange knowledge with other people.
+- Mathematics to encode ideas into a formal representation.
+- Programming languages to pass information to machines.
+
+Learning spoken languages is a bit antiquated. Mathematics may require a lot of time and won't be practical for most people. **Programming is the best option. [Coding is the literacy of today and it helps practice 21st century skills such as problem solving, team work and analytical thinking](https://ec.europa.eu/digital-single-market/en/coding-21st-century-skill).** Luckily, some programming languages are so simple, you can learn them in a couple of weeks. You don't even need specialized equipment or money. Tutorials are free on YouTube and programming can be done on a smartphone these days.
+
+![Jobs Automation Potential](https://content.fortune.com/wp-content/uploads/2017/08/automation_featured.png)
+
+Some jobs will be automated sooner than others. The bad news are that easy-to-automate jobs are extremely popular. For the US labour market the following common professions are at risk:
+
+- **[Cashiers](https://willrobotstakemyjob.com/41-2011-cashiers): 3.5  mln people.**
+- **[Waitresses](https://willrobotstakemyjob.com/35-3031-waiters-and-waitresses): 2.5 mln people.**
+- **[Secretaries](https://willrobotstakemyjob.com/43-6014-secretaries-and-administrative-assistants-except-legal-medical-and): 2.2 mln people.**
+- **[Truck Drivers](https://willrobotstakemyjob.com/53-3032-heavy-and-tractor-trailer-truck-drivers): 1.7 mln people.**
+- **[Sales Representatives](https://willrobotstakemyjob.com/41-4012-sales-representatives-wholesale-and-manufacturing-except-technical): 1.4 mln people.**
+
+If your job isn't on the list, you can [look it up here](https://willrobotstakemyjob.com/). The next industrial revolution will affect all of us, and **this is a great chance to learn new skills and secure [a relevant role](https://www.daxx.com/blog/development-trends/software-engineer-shortage-us-2019) for yourself in the automated future!**
+
+## Financial Possibilities
+
+> **Buy when there's blood in the streets, even if the blood is your own.**<br/>
+> Baron Rothschild. 18th century.  
+
+> **Be fearful when others are greedy and greedy when others are fearful.**<br/>
+> Warren Buffet. 21st century.  
+
+The time goes on, but very little changes. **[Short term crisis is often a long-term opportunity](https://advisor.visualcapitalist.com/black-swan-events/).** Today the market is full of fear. The 500 largest companies in the US had lost one third of their value in a month. I have lost a lot of money as well, and I will probably lose even more in the upcoming weeks.
+
+Part of me is sad and nervous, but another part is excited about the new possibilities. There are plenty of reasons to be pessimistic about the current state of affairs, but this can be an amazing opportunity for brave buyers. I will focus on positive aspects.
+
+### Human Psychology 😱
+
+In general, people sell faster than they buy. They can spend months deciding to buy an asset but sell in minutes of panic without deeply investigating the subject. I am not convinced with modern state of Psychological research, so let's use economics to quantify it. The value of assets on the market is defined by it's real value today and it's future potential. The second depends on local and macroeconomic risks, which skyrocket in the periods of uncertainty. Sounds vague, but we have a very **specific chart, that reflects market uncertainty. It's called [VIX](https://www.moneyshow.com/articles/optionsidea-25848/) and it shows the implied market volatility** for upcoming 30 days! If we align VIX with historical data we can see, that people almost always exaggerate the risks and act irrationaly!
+
+![SPY Implied Volatility vs Historical Volatility](https://i0.wp.com/optionposts.com/wp-content/uploads/2018/02/implied-volatility-vs-historical-volatility.png?ssl=1)
+
+They panic and push the price of already well-priced companies even further. So whenever you see a rapid drop in price, it's probably even less justified than the original growth of any bubble. This time we turned from Bull market to Bear market faster than ever, so maybe the recovery will be fast too.
+
+### Liquid Assets 🌊
+
+If the money leaves the stock market it must go somewhere else within the [financial ecosystem](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/), but most assets were loosing value in the past month.
+
+- **Gold: -11%.**
+- **Oil (Brent): -54%.**
+- **5 year treasury notes: +3%.**
+
+Cash was the best asset to hold recently, but it's as liquid as it gets. It won't be hard to redistribute cash back into the market. Furthermore, in hard times central banks often initiate Quantitative Easing. In simple terms, the government prints excessive amounts of money to buy various financial assets (usually treasury bonds). Such an influx of new cash devaluates the currency and pushes people towards other financial instruments. In the past, [QE had mixed results](https://fred.stlouisfed.org/graph/?g=mc6A), but this time can be different due to **wiser regulations for banks reserves and [stock buybacks](https://www.vox.com/2020/3/21/21189471/stock-buybacks-coronavirus-bailouts-airlines-trump), which [account for 42% of equity demand](https://www.marketwatch.com/story/buybacks-are-the-dominant-source-of-stock-market-demand-and-they-are-fading-fast-goldman-sachs-2019-11-06)!**
+
+### Oil Prices 🛢️
+
+One of the reasons this market crash was so fast is that world leaders couldn't agree on oil prices. Russia famously quit the negotiations with OPEC on March 6 causing retaliation on the Saudi side. We all knew oil prices would go down eventually, but this was too fast too early.
+
+This increases market volatility but will positively affect some economies. **China accounts for [20% of worldwide oil imports](http://www.worldstopexports.com/crude-oil-imports-by-country/)** and will benefit from lower prices more than any other country. Their economy was slowing down rapidly, and cheaper energy will help to wake up the sleeping dragon!
+
+![Brent Crude Oil Prices Since 2015](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fa9ae0468-61bb-11ea-b3f3-fe4680ea68b5?fit=scale-down&source=next&width=700)
+
+### Seasonality and Demographics 🏥
+
+Higher temperatures will probably slow down the spread of the virus. We don't have conclusive evidence yet, but it's very likely.
+
+- Ultraviolet will damage its membrane.
+- Warm, humid weather will limit its travel distance (when sneezing).
+- Sunnier weather will stimulate our immune systems.
+
+Furthermore, the impact won't be uniform around the globe. As mentioned previously, the virus is much deadlier for the older population, but let's see [how different regions compare in terms of median age](https://en.wikipedia.org/wiki/List_of_countries_by_median_age):
+
+- **Europe: 43 yo.**
+- **USA: 38 yo.**
+- **India: 28 yo.**
+- **Bangladesh: 27 yo.**
+- **Africa: 19 yo.**
+
+The causes behind such demographics in Africa and similar places are highly disturbing, but they will **naturally soften the impact of this outbreak in the regions that are least prepared!**
+
+### Tech to the Rescue 💻
+
+Trade routes are disrupted, and the supply has fallen even more than demand. To recover, we need to focus on the main drivers of growth — Technology sector.
+
+China, Taiwan and South Korea are slowoly healing, as the number of new cases in those countries is [minimal](https://www.worldometers.info/coronavirus/). Coincidentally, those countries are absolutely [dominating the semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)! In 2019 tech industry sales totalled at 5 trillion USD, but that's only half of the story!
+
+I am biased, but to me, the invention of MOSFET transistor was as crucical for the economy as steam engine or electricity! Its past influence is undeniable, but we are not stopping here. TSMC had recently reported that their [5nm production is already fully booked](https://www.tomshardware.com/news/tsmc-5nm-chip-production-process-technology)! It means 84% higher transistor density over 7nm specification and much higher performance per Watt! This will translate into supercomputers of unprecedented scale! The El Capitan system expected in 2023 [will outperform 200 fastest supercomputers combined](https://www.reuters.com/article/us-hpe-amd/hpe-amd-win-deal-for-u-s-supercomputer-to-model-nuclear-weapons-idUSKBN20R2RY)!
+
+**Imagine a world with 100 times more computational resources allocated for [biological modelling and drug design](https://edition.cnn.com/2020/03/19/us/fastest-supercomputer-coronavirus-scn-trnd/index.html)!** Our technological advances aren't halting, they are accelerating! What a time to be alive!
+
+### Longer Term Outlook 🔮
+
+I hope you already feel safer now, but let's through in a few more arguments.
+
+- In developed countries big part of jobs can be done from home. This outbreak will accelerate the transition to remote work style and will indirectly boost the hospitality industry in the long term.
+
+- Educational system is being actively digitized paving the way for custom curriculums for every student. That will presumably improve the quality of education and the rate of technological advances.
+
+From the biological standpoint, COVID-19 is linked to [SARS](https://www.cdc.gov/sars/about/index.html) and [MERS](https://www.cdc.gov/coronavirus/mers/about/index.html), but it spreads much faster. From an economic standpoint, it's easier to compare it to the [Influenza pandemic of 1918](https://www.cdc.gov/flu/pandemic-resources/1918-pandemic-h1n1.html). It had a 20% death rate and had affected 27% of global population. **Within half a year, the stock market lost 35% of its value, but later it regained its original value within 18 months.** I tend to believe that we are much better prepared this time.
+
+That being said, don't jump into the stock market right away. Build up positions slowly and within a few years of methodical investing you will multiply your assets. **The last Bull market moved S&P 500 from 666 points to 3'393 - quintupling it in 12 years, which results average annual returns of 14%!** Being wealthy is undoubtedly great, but there is more to the stock market than just finances. By buying stocks, you support the value of corresponding companies (groups of real people), which will help them grow, design and produce products that you use and love!
+
+## Call for Action
+
+Viruses are dangerous, we all knew that. [Smallpox](https://www.cdc.gov/smallpox/index.html) alone had killed [over 300 million people](https://www.infoplease.com/math-science/health/diseases/epidemics-of-the-past-smallpox-12000-years-of-terror) in the 20th century. It's more than three times the death toll of World War 2. **In the past years, [WHO and other entities identified Eastern China as the most likely place for deadly viruses to originate](https://www.nature.com/articles/srep18610). We knew all of this for decades but refused to act.** We haven't seen a pandemic of such scale for generations and forgot whats its like.
+
+We needed a harsh reminder like this to initiate ground-shifting changes! Probably, the most critical problem we need to address is our never-ending rivalry. I have lived in over a dozen countries and know for sure that the differences between our cultures are minimal. Somehow we forget about what unites us and focus on what sets us apart, and it influences everything!
+
+### The Budgets 💰
+
+As of now, the US and China together spend about 1 trillion USD annually on the military. Very often, this figure is shown as a share of GDP, which makes no sense. GDP measures the economic activity within a region, not the number of available resources. In absolute numbers, it's estimated, that [American taxpayers had spent a total of 6.4 trillion USD on wars in the Middle East since 2001](https://www.cnbc.com/2019/11/20/us-spent-6point4-trillion-on-middle-east-wars-since-2001-study.html). This number is mind boggling, so let's just focus on one year. In 2018 the United States had spent a total of 4.1 trillion USD on various programs (it's 24% more that what they earned). This budget was [split between 18 departments](https://en.wikipedia.org/wiki/2018_United_States_federal_budget), but not evenly:
+
+- **Defense: 574 billion USD.**
+- **Education: 68 billion USD.**
+- **Healthcare: 65 billion USD.**
+
+I am using the USA as a reference because they are the biggest economy, and their data is widely available (👍), but the situation is very similar in most other countries! The 2018 military budget is equal to the estimated cost of:
+
+- Designing working vaccines for 250 unrelated viruses. [Source](https://www.thelancet.com/action/showPdf?pii=S2214-109X%2818%2930346-2).
+- Constructing 700 hospitals with 350'000 beds. [Source](http://cost-finder.com/how-much-does-it-cost-to-build-a-hospital/).
+- Building 110 copies of Large Hadron Collider. [Source](https://www.quora.com/How-much-does-it-cost-to-build-and-sustain-the-Large-Hadron-Collider-experiments).
+
+Building 110 colliders is not a good strategy either. This just extends the scope of our context. Scientific activity correlates with the quality of healthcare systems. It's not just Biology. Many tools we use in Medicine today were [originally designed by physicists](https://www.tandfonline.com/doi/pdf/10.1080/02841860802244158) to study nature. Do you know what's the share of R&D in GDPs of big countries?
+
+- Korea: 4.5%.
+- Israel: 4.5%.
+- Japan: 3.2%.
+- United States: 2.8%.
+- Italy: 1.3%.
+- Russia: 1.1%.
+
+We can do better.
+
+### The Borders 🛂
+
+The money alone won't solve the problem. Politicians often hide real threats to avoid panic or for less admirable reasons. It also applies to viral outbreaks. Researchers around the globe must have immediate access to real-time data to prevent such disasters from happening. As we are already on this topic, let's dream about what else can be achieved if we remove borders and start building bridges!
+
+- Cargo trains and ships would always take the shortest routes and transit through borders freely to avoid unnecessary emissions. Airlines today often [avoid the shortest path to pay lower overflight fees](https://www.businessinsider.com/countries-charge-foreign-airlines-to-fly-through-airspace-travel-planes-international-flight-2017-9?r=MX&IR=T). This is borderline criminal, given that it can be 400 times less eco-friendly (per metric ton of freight) than bulk carrier ships.
+
+- [Rear-earth materials are only present in some parts of the globe](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-reserves-country/), but we can consume them together to build high end medical and scientific equipment.
+
+- Industrial complexes could be moved to sparsely populated regions, as some [diseases like non-Hodgkin's lymphoma are 10 times more likely near factories. Even in developed countries like the US.](http://www.euro.who.int/__data/assets/pdf_file/0006/264813/Human-Health-in-Areas-with-Industrial-Contamination-Eng.pdf)
+
+- [Datacenters spend 40% of energy on cooling](https://e360.yale.edu/features/energy-hogs-can-huge-data-centers-be-made-more-efficient). We could move them to colder climates for natural cooling and in return cover the agricultural needs of people who live there.
+
+This list is endless. And also meaningless. We use the money to exchange goods between nations, but it’s not enough if there is no trust. It is difficult to convince anyone to cooperate given the differences in our cultures! It’s hard periods like this that bring us all together and let us see the clear picture! I am happy it happened sooner than later! We will face a lot of obstacles in the 21st century, and we must battle them together!
+
+## The End
+
+Today I have been outdoors only once, and I am proud of it. <br/>
+A little bit of discipline and our lives can become better than ever before!
+
+---
+
+Created: Mar 22, 2020 <br/>
+Author: Ashot Vardanian. <br/>
+Link: [ashvardanian.com/blog/covid19](https://ashvardanian.com/blog/covid19)
