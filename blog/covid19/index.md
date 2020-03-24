@@ -12,7 +12,6 @@ Having said that, I refuse to panic. This is a sad period in our history, but we
 
 **Disclaimer.** Take my words with a grain of salt. My experience is minimal, and I wasn't there during the last crisis. **[My background](https://ashvardanian.com)** isn't in economics or biology. So far, I had a relatively good track record of predicting global trends, but I am not an expert. Anyways, feel free to correct me if I am wrong!
 
-
 ## Table of Contents
 
 - [Positive Outlook and Opportunities <br/>In the COVID-19 Crisis](#positive-outlook-and-opportunities-brin-the-covid-19-crisis)
@@ -20,7 +19,7 @@ Having said that, I refuse to panic. This is a sad period in our history, but we
   - [Table of Contents](#table-of-contents)
   - [A Few Months of Discomfort](#a-few-months-of-discomfort)
   - [Personal Growth](#personal-growth)
-  - [Financial Possibilities](#financial-possibilities)
+  - [Financial Opportunities](#financial-opportunities)
     - [Human Psychology 😱](#human-psychology-%f0%9f%98%b1)
     - [Liquid Assets 🌊](#liquid-assets-%f0%9f%8c%8a)
     - [Oil Prices 🛢️](#oil-prices-%f0%9f%9b%a2%ef%b8%8f)
@@ -66,7 +65,7 @@ Some jobs will be automated sooner than others. The bad news are that easy-to-au
 
 If your job isn't on the list, you can [look it up here](https://willrobotstakemyjob.com/). The next industrial revolution will affect all of us, and **this is a great chance to learn new skills and secure [a relevant role](https://www.daxx.com/blog/development-trends/software-engineer-shortage-us-2019) for yourself in the automated future!**
 
-## Financial Possibilities
+## Financial Opportunities
 
 > **Buy when there's blood in the streets, even if the blood is your own.**<br/>
 > Baron Rothschild. 18th century.  
@@ -126,7 +125,7 @@ The causes behind such demographics in Africa and similar places are highly dist
 
 Trade routes are disrupted, and the supply has fallen even more than demand. To recover, we need to focus on the main drivers of growth — Technology sector.
 
-China, Taiwan and South Korea are slowoly healing, as the number of new cases in those countries is [minimal](https://www.worldometers.info/coronavirus/). Coincidentally, those countries are absolutely [dominating the semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)! In 2019 tech industry sales totalled at 5 trillion USD, but that's only half of the story!
+China, Taiwan and South Korea are slowly healing, as the number of new cases in those countries is [minimal](https://www.worldometers.info/coronavirus/). Coincidentally, those countries are absolutely [dominating the semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)! In 2019 tech industry sales totalled at 5 trillion USD, but that's only half of the story!
 
 I am biased, but to me, the invention of MOSFET transistor was as crucical for the economy as steam engine or electricity! Its past influence is undeniable, but we are not stopping here. TSMC had recently reported that their [5nm production is already fully booked](https://www.tomshardware.com/news/tsmc-5nm-chip-production-process-technology)! It means 84% higher transistor density over 7nm specification and much higher performance per Watt! This will translate into supercomputers of unprecedented scale! The El Capitan system expected in 2023 [will outperform 200 fastest supercomputers combined](https://www.reuters.com/article/us-hpe-amd/hpe-amd-win-deal-for-u-s-supercomputer-to-model-nuclear-weapons-idUSKBN20R2RY)!
 
