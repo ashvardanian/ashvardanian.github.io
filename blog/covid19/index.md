@@ -180,7 +180,7 @@ The money alone won't solve the problem. Politicians often hide real threats to 
 
 - Cargo trains and ships would always take the shortest routes and transit through borders freely to avoid unnecessary emissions. Airlines today often [avoid the shortest path to pay lower overflight fees](https://www.businessinsider.com/countries-charge-foreign-airlines-to-fly-through-airspace-travel-planes-international-flight-2017-9?r=MX&IR=T). This is borderline criminal, given that it can be 400 times less eco-friendly (per metric ton of freight) than bulk carrier ships.
 
-- [Rear-earth materials are only present in some parts of the globe](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-reserves-country/), but we can consume them together to build high end medical and scientific equipment.
+- [Rare-earth materials are only present in some parts of the globe](https://investingnews.com/daily/resource-investing/critical-metals-investing/rare-earth-investing/rare-earth-reserves-country/), but we can consume them together to build high end medical and scientific equipment.
 
 - Industrial complexes could be moved to sparsely populated regions, as some [diseases like non-Hodgkin's lymphoma are 10 times more likely near factories. Even in developed countries like the US.](http://www.euro.who.int/__data/assets/pdf_file/0006/264813/Human-Health-in-Areas-with-Industrial-Contamination-Eng.pdf)
 
