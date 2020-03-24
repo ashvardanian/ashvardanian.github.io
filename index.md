@@ -19,6 +19,10 @@ Hey, I'm Ashot!<br/>
 - Lecture @ JetBrains HQ in St. Petersburg, Russia. [Efficient GPGPU Programming](https://github.com/ashvardanian/SandboxGPUs), [Video](https://youtu.be/BUtHOftDm_Y)
 - Lecture @ CppRussia Conference in St. Petersburg, Russia. [Deep dive into GPGPU programming](https://github.com/ashvardanian/SandboxGPUs)
 
+## Blog
+
+- [Positive Outlook and Opportunities in the COVID-19 Crisis](https://ashvardanian.com/blog/covid19)
+
 ## Contacts
 
 [LinkedIn](https://linkedin.com/in/ashvardanian)<br/>
