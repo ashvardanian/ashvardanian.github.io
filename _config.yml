@@ -12,7 +12,7 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "en-US"
@@ -72,16 +72,20 @@ naver_site_verification  :
 twitter:
   username               : "ashvardanian"
 facebook:
-  username               :
+  username               : "ashvardanian"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "avatar.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: # An array of links to social media profiles for search indexing
+  - "https://www.linkedin.com/in/ashvardanian"
+  - "https://www.facebook.com/ashvardanian"
+  - "https://twitter.com/ashvardanian"
+  - "https://instagram.com/ashvardanian"
 
 # Analytics
 analytics:
@@ -95,7 +99,7 @@ analytics:
 author:
   name             : "Ashot Vardanian"
   avatar           : "avatar.png"
-  bio              : "I am an **amazing** person."
+  bio              : "AI Researcher & Investor."
   location         : "St. Petersburg, Russia"
   email            : 
   links:
@@ -271,11 +275,12 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: wide
     values:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      toc: true

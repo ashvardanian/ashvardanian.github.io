@@ -64,13 +64,13 @@ In a month Yerevan hosted more interesting international events, than Moscow, wh
 
 * We have a mountaneous terrain which makes agriculture difficult.
 * Our natural resources are scarce, so mineral exports can't support the economy.
-* We have troubled relations with neighbors, which makes trading complicated for a land-locked country.
+* We are land-locked and have troubled relations with neighbors, so trading is limited.
 
 By process of elimination, the only things we actually export are Clean Energy and Information Technologies. Hi-tech professions are very prestigious and schools put emphasis on Maths, Physics and Chess as the main subjects. 
 
 ### Which Kinds of Tech?
 
-I would be lying if I told you that best software developers are Armenians. I think the best (and most undervalued) ones are Russians. They are more skilled than in Belarus and Ukraine (or India, Pakistan and China for that matter), but cost less. Here is my relative comparison of IT talent in Armenia.
+I would be lying if I told you that best software developers are Armenians. I think the best (and most undervalued) ones are [Russians](ITMO wins olymniad N times). They are more skilled than in Belarus and Ukraine (or India, Pakistan and China for that matter), but cost less. Here is my relative comparison of IT talent in Armenia.
 
 |Category|Quality|
 |---|---|
@@ -84,6 +84,8 @@ Some facts to back it up:
 * Xilinx does R&D in Armenia. They sell FPGA cards globally. Valued at ... bln USD.
 * Biggest Flutter Development Center now operates in Gyumri, Armenia. They build cross-platform mobile apps for businesses all around the globe. Furthermore, the business owner is not Armenian!
 
+> Add link to Todd Fabacher
+
 Western companies are very cautious and avoid oursourcing research to countries with strong ties to Russia or China. We have both, but yet the benefits outweight the 
 To sum it up - Armenia is awesome for Hardware Design. Senior backend developers are rare, but we will work on it! Here are some useful links:
 
@@ -94,7 +96,7 @@ To sum it up - Armenia is awesome for Hardware Design. Senior backend developers
 
 ### Regional Contrasts
 
-After the revolution - we have become one of the most democratic countries in the region. Our neighbors, on the other hand have more restrictive regimes, that may not be so appealing to Wesern Businesses. If you need a physical presence in the Middle East, Armenia is a good option. Here are some nearby countries.
+After the revolution - we have become one of the most democratic countries in the region. Our neighbors, on the other hand have more restrictive regimes, that may not be so appealing to Wesern Businesses. **If you need a physical presence in the Middle East, Armenia is a good entry point**. Here are some nearby countries.
 
 |Country|Population|Potential Complication for Western Companies|
 |---|---|---|
@@ -130,22 +132,27 @@ Georgia has a territorial tax system, that we don't have. Their capital looks mu
 
 ### What to do?
 
-* Food & Wine - the classical benefits of a third-world country!
-* Visit historical sights:
+* Dining & wining - the classical benefits of a third-world country!
+  * Ararat Cogniac
+  * Areni Wine
+  * Some gloabl food ranking
+* Visit historical sights.
   * Garni
   * Tatev
 * Art & Culture. I am not a big expert on this one, but here is what I enjoy:
   * Listening to Duduk - out ethnic flute-like musical instrument.
   * Watching traditional ethic dances or ballet in the main Opera building.
-* Active sports:
+* Active sports.
   * Beautiful hiking tracks & mountains.
   * Rafting on Hrazdan river.
-* Study! Armenia hosts some of the most advanced elementary and middle schools:
-  * AYB
-  * TUMO
+* Study. Armenia hosts some of the most advanced **international** elementary and middle schools:
   * UWC Dilijan
+  * TUMO
+  * AYB
 
 Unfortunatelly, the same can't be said about our universities today, but I predict the situation will change in 10 years!
+
+> Add links to Instagram photos by 
 
 ### Visa Requirements
 

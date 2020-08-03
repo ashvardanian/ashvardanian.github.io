@@ -1,6 +1,7 @@
 # Hey, I'm Ashot!
 
 I research Artificial Intelligence, design High-Performance Software and have been building [Unum](https://unum.xyz) since 2015!
+Unum is in stealth-mode until now, but certain details will be uncovered until the end of 2020.
 
 ## Random Facts
 
@@ -11,13 +12,13 @@ I research Artificial Intelligence, design High-Performance Software and have be
 💻 These days I code in C++ 20, Python, Swift & LISPs.<br/>
 💵 In my free time, I make investments, assemble servers and teach. <br/>
 
-## Currently Working On
+## Currently Work
 
 - __Unum Framework for Artificial Intelligence__, that scales beyond traditional limits. [Read more...](https://unum.xyz)
 - __C* Programming Language__, that brings together the simplicity of Common LISP and power of C++. [Read more...](https://unum.xyz/cstar)
 
-## Public Appearences
+## My Lectures
 
-- Lecture @ Synopsys HQ in Palo Alto, CA, USA. [Computational graphs and AI in C++](https://github.com/ashvardanian/NeuralSTL)
-- Lecture @ JetBrains HQ in St. Petersburg, Russia. [Efficient GPGPU Programming](https://github.com/ashvardanian/SandboxGPUs), [Video](https://youtu.be/BUtHOftDm_Y)
-- Lecture @ CppRussia Conference in St. Petersburg, Russia. [Deep dive into GPGPU programming](https://github.com/ashvardanian/SandboxGPUs)
+- Computational graphs and AI in C++ @ Synopsys HQ in Palo Alto, CA, USA. [GitHub](https://github.com/ashvardanian/NeuralSTL).
+- Efficient GPGPU Programming @ JetBrains HQ in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/BUtHOftDm_Y).
+- Deep dive into GPGPU programming @ CppRussia Conference in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube]().
