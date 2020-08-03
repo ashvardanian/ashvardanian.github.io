@@ -1,4 +1,4 @@
-# Hey, I'm Ashot!
+Hey, I'm Ashot!
 
 I research Artificial Intelligence, design High-Performance Software and have been building [Unum](https://unum.xyz) since 2015!
 Unum is in stealth-mode until now, but certain details will be uncovered until the end of 2020.
