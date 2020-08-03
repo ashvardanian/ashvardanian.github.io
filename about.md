@@ -1,3 +1,12 @@
+---
+layout: article
+titles:
+  # @start locale config
+  en      : &EN       About
+  # @end locale config
+key: page-about
+---
+
 Hey, I'm Ashot!
 
 I research Artificial Intelligence, design High-Performance Software and have been building [Unum](https://unum.xyz) since 2015!
