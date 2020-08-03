@@ -1,2 +1,8 @@
 irrelelvant/
 *.DS_Store
+vendor/
+.bundle/
+_site/
+.sass-cache/
+Gemfile.lock
+.jekyll-metadata
