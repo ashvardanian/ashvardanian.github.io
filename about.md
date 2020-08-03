@@ -1,25 +1,29 @@
 ---
 layout: article
-titles:
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-key: page-about
+title: Hey, I'm Ashot!
 ---
 
-Just say something about yourself. :+1:
+I do all kinds of weird stuff, but mostly:
+* I research Artificial Intelligence, 
+* design high-performance software,
+* invest into tech stocks
+* and try to build my own company - [Unum](https://unum.xyz)!
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+## Random Facts
+
+🌍 Visited over 50 countries across 4 continents, lived in 11 of them.<br/>
+👅 Fluent in Russian, Armenian & English. Intermediate in a few other languages. <br/>
+🔭 Dropped my Astrophysics degree. Twice.<br/>
+📚 First line of code: elementary school. Freelance Web-Dev: middle school. First profitable IT business: high school.<br/>
+💻 These days I code in C++ 20, Python, Swift & LISPs.<br/>
+
+## Current Work
+
+- __Unum Framework for Artificial Intelligence__, that scales beyond traditional limits. [Read more...](https://unum.xyz)
+- __C* Programming Language__, that brings together the simplicity of Common LISP and power of C++. [Read more...](https://unum.xyz/cstar)
+
+## My Lectures
+
+- Computational graphs and AI in C++ @ Synopsys HQ in Palo Alto, CA, USA. [GitHub](https://github.com/ashvardanian/NeuralSTL).
+- Efficient GPGPU Programming @ JetBrains HQ in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/BUtHOftDm_Y).
+- Deep dive into GPGPU programming @ CppRussia Conference in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube]().
