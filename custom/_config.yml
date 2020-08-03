@@ -1,68 +1,74 @@
 # Welcome to Jekyll!
 #
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
+
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# Welcome to Jekyll!
+#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-
-## !USE TEXT THEME
-theme: jekyll-text-theme # Gem-based Jekyll Themes
-# remote_theme: kitian616/jekyll-TeXt-theme # Jekyll Remote Theme, see https://github.com/benbalter/jekyll-remote-theme for more information.
 #
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
 #    |  |  | .-. :  .'    \ '-.  .-'
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
+
+theme: jekyll-text-theme
+
 ## => Site Settings
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : Your Site Title
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
-
-
+url     : https://www.ashvardanian.com
+title   : "Ashots' Blog"
+description: "Thoughts on AI, Computing and Society"
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: "en"
 
 
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  type      : "person" # (default), "organization"
+  name      : Ashot Vardanian
+  url       : ashvardanian.com
+  avatar    : apple-touch-icon
+  bio       : AI Researcher & Investor
+  email     : 
+  facebook  : ashvardanian # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : ashvardanian # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
+  googleplus: ashvardanian # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  telegram  : ashvardanian # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : ashvardanian # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : ashvardanian # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: ashvardanian/ashvardanian.github.io
 repository_tree: master
 
 
 ## => Paths
 ##############################
 paths:
-  root    : # title link url, "/" (default)
+  root    : # 
   home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
@@ -78,7 +84,7 @@ license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4
 
 ## TOC
 toc:
-  selectors: # "h1,h2,h3" (default)
+  selectors: "h1,h2,h3,h4,h5,h6"
 
 
 ## => Markdown Enhancements
@@ -118,63 +124,38 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
-
-  ## Disqus
-  disqus:
-    shortname: # the Disqus shortname for the site
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+    clientID    : 3d230b38772e2f86253a
+    clientSecret: bbab6191265ad10231856d0cd6d63cec5c0fb32e
+    repository  : ashvardanian/ashvardanian.github.io
+    owner       : ashvardanian
+    admin: 
+      - ashvardanian
 
-  ## Valine
-  # please refer to https://valine.js.org/en/ for more info.
-  valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
-    placeholder : # Prompt information
-    visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 
 ## => Pageview
 ##############################
 pageview:
-  provider: false # false (default), "leancloud", "custom"
-
-  ## Leancloud
-  leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
-
+  provider: false
 
 ## => Search
 ##############################
 search:
-  provider: default # "default" (default), false, "google", "custom"
-
-  ## Google Custom Search Engine
-  google:
-    custom_search_engine_id: # Google Custom Search Engine ID
+  provider: default
 
 
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
-
-  ## Google Analytics
+  provider: "google"
   google:
-    tracking_id : # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    tracking_id : "UA-76958351-1"
+    anonymize_ip: false
 
 
 ## => Build
@@ -211,7 +192,7 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
 

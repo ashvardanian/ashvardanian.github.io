@@ -12,7 +12,7 @@ default:
   mermaid: false
   chart: false
   toc:
-    selectors: 'h1,h2,h3'
+    selectors: 'h1,h2,h3,h4,h5,h6'
   sources: bootcdn
 
   page:
@@ -33,7 +33,7 @@ default:
     show_author_profile: false
     show_subscribe: false
     full_width: false
-    sharing: false
+    sharing: true
     comment: true
     license: false
     pageview: false
