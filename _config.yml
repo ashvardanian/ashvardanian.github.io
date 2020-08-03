@@ -46,7 +46,7 @@ author:
   type      : "person" # (default), "organization"
   name      : Ashot Vardanian
   url       : ashvardanian.com
-  avatar    : apple-touch-icon
+  avatar    : avatar.png
   bio       : AI Researcher & Investor
   email     : 
   facebook  : ashvardanian # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
