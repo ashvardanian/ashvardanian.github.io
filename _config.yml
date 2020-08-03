@@ -275,9 +275,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: wide
+      type: posts
     values:
-      layout: single
+      layout: wide
       author_profile: true
       read_time: true
       comments: true
