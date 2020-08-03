@@ -1,0 +1,162 @@
+# Come to Armenia!
+
+Borders are closed, people are sitting at home, but I bet most of you dream about travelling again! I want to invite you all to my country of origin - Armenia! It has something to offer to every group of people - tourists, enterpreneurs and investors!
+
+**Disclaimer 1.** Most small nations love to exagerate their small accomplishments, we are not an exception. Sadly, native Armenians are the most shovinistic people in Europe! We still have a lot of problems and that topic needs a separate article. However, I was born in Russia, I speak Russian and English better than Armenian and I have lived all around the globe, so this is closer to the outsider look than you might think.
+
+**Disclaimer 2.** I try to follow my own advices, but I still don't have a legal entity in Armenia and can't physically travel there due to COVID-19. I encourage you to be skeptical and fact-check. I am open to any questions and meaningful comments.
+
+## Table of Contents
+
+- [Come to Armenia!](#come-to-armenia)
+  - [Table of Contents](#table-of-contents)
+  - [What is Armenia?!](#what-is-armenia)
+  - [Doing IT Business in Armenia](#doing-it-business-in-armenia)
+    - [Why Tech Specifically?](#why-tech-specifically)
+    - [Which Kinds of Tech?](#which-kinds-of-tech)
+  - [Investing in Armenia](#investing-in-armenia)
+    - [Regional Contrasts](#regional-contrasts)
+    - [Similarities with Israel](#similarities-with-israel)
+    - [Similarities with Georgia](#similarities-with-georgia)
+  - [Travelling to Armenia](#travelling-to-armenia)
+    - [What to do?](#what-to-do)
+    - [Visa Requirements](#visa-requirements)
+    - [Safety](#safety)
+  - [Photos from My Last Trip](#photos-from-my-last-trip)
+
+## What is Armenia?!
+
+If you haven't heard about my country, it's ok. Here is a fact sheet to get you started.
+
+* Armenia is located south of Caucasus mountains.
+* It has a unique ancient language, that belongs to the Indo-European family.
+* Our capital Yerevan is older than Rome. It's over 2800 years old. 
+* Ancient Armenia was called Kilikia (AD) and Urartu (BC) at different times.
+* Armenia was the first country in history to adopt Christianity in the 3rd century.
+* Armenia has preserved a huge part of it's history, including the Garni temple from pre-christian times!
+* We are tiny! 
+  * Armenia has ~2 mln population! 
+  * Our neighbors - Turkey and Iran have 81 mln and 82 mln respectively!
+* We are a nation of Nomads! 
+  * Up to 80% of Armenians live abroad. 
+  * Most have left during the Armenian Genocide of 20th century. 
+  * My parents left Armenia as teenagers to study in Russia.
+* In the Soviet times we were one of the main hubs of Chemical & Electrical R&D for the entire union.
+* We have a surprising number of professional chess players and scientists. Especially, for a 3rd world country.
+* We are geopolitically similar to Israel and Singapore, but unfortunatelly – land-locked.
+
+## Doing IT Business in Armenia
+
+My last 3 trips to Armenia were in 2012, 2017 and 2019. In 2017 I was preparing to register my own company [Unum](https://unum.xyz) in Armenia. I have met a few people, talked to locals and left the country after 4 days! That's how disappointed I was. If an Armenian guy doesn't want to do business in Armenia, why would a foreigner do?
+
+Just 1 year later everything changed. I am talking about the Velvet Revolution of 2018 of course. The first peaceful transition of power in the CIS since the fall of USSR! It deserves a separate article, but I will just mention, that even Armenians who lived abroad had travelled to Armenia just to support the protests on the streets of Yerevan! I was ~~surprised~~ shocked!
+
+In 2019 I travelled to Armenia again. This time - for a full month. I was born in a megapolis with 5 mln population, been to SF, NY, CDMX, BsAs, BK, HK and probably every single famous city you can think of. What could I possibly do in Yerevan for so long?
+
+* WCIT 2019
+* GIF 2019
+* HIVE 2019 
+* Aurora Prize charity event
+
+In a month Yerevan hosted more interesting international events, than Moscow, which is 15x times bigger! I have met scientists and engineers from around the globe and we were rediscovering Armenia together! We are just openning up after thousands of years of cultural isolation, so a lot must be polished, but the start is very promising!
+
+### Why Tech Specifically?
+
+* We have a mountaneous terrain which makes agriculture difficult.
+* Our natural resources are scarce, so mineral exports can't support the economy.
+* We have troubled relations with neighbors, which makes trading complicated for a land-locked country.
+
+By process of elimination, the only things we actually export are Clean Energy and Information Technologies. Hi-tech professions are very prestigious and schools put emphasis on Maths, Physics and Chess as the main subjects. 
+
+### Which Kinds of Tech?
+
+I would be lying if I told you that best software developers are Armenians. I think the best (and most undervalued) ones are Russians. They are more skilled than in Belarus and Ukraine (or India, Pakistan and China for that matter), but cost less. Here is my relative comparison of IT talent in Armenia.
+
+|Category|Quality|
+|---|---|
+|Frontend Software|:smile::smile:|
+|Backend Software|:smile:|
+|Hardware Design|:smile::smile::smile:|
+|Computer Science|:smile::smile:|
+
+Some facts to back it up:
+* Synopsys does R&D in Armenia. They design hardware IP for Intel and other big clients. They were one of the first companies to open campus in Yerevan, so big cudos to them! Valued at ... bln USD.
+* Xilinx does R&D in Armenia. They sell FPGA cards globally. Valued at ... bln USD.
+* Biggest Flutter Development Center now operates in Gyumri, Armenia. They build cross-platform mobile apps for businesses all around the globe. Furthermore, the business owner is not Armenian!
+
+Western companies are very cautious and avoid oursourcing research to countries with strong ties to Russia or China. We have both, but yet the benefits outweight the 
+To sum it up - Armenia is awesome for Hardware Design. Senior backend developers are rare, but we will work on it! Here are some useful links:
+
+* About salaries and software developers (in russian): 
+* Relocation stories and experiences: [itisamrnia]
+
+## Investing in Armenia
+
+### Regional Contrasts
+
+After the revolution - we have become one of the most democratic countries in the region. Our neighbors, on the other hand have more restrictive regimes, that may not be so appealing to Wesern Businesses. If you need a physical presence in the Middle East, Armenia is a good option. Here are some nearby countries.
+
+|Country|Population|Potential Complication for Western Companies|
+|---|---|---|
+|Iran| | Shiraya law|
+|Turkey| |Transitioning to Shiraya law|
+|Iraq| |Shiraya law|
+|Syria| |Didn't recover after war|
+
+We have a modern international airport and a growing number of flight directions. Land-borders with Iran and Georgia are also open.
+
+### Similarities with Israel
+
+Armenian and Jewish cultures share troubled past - cultural isolation, genocides and long recovery. Our society & the tech sector is undergoing the same transition Israel had a couple of decades ago. If you could travel back in time an invest in Israel, whould you? I would!
+
+Well-educated & skilled Armenians from all over the globe are proudly repatriating to their historical homeland to start business, teach & ressearch new technologies. 
+
+* ServiceTitan (unicorn) was started in LA, but now does R&D in Yerevan.
+* PicsArt (almost unicorn) was started in Moscow, but now does R&D in Yerevan.
+
+Furthermore, local IT outsourcing companies become more independant and start developing their own products. I bet the next Armenian unicorn is coming very soon!
+
+### Similarities with Georgia
+
+If you think the Israel example is dated, here is a more recent one. Georgia had a not-so-peaceful transition of power about a decade ago. Since then they have liberated their economy in many ways and we are doing the same!
+
+* Startups receive huge tax incentives .
+* New tax policy for companies is much easier to follow.
+* The corruption levels have dropped significantly!
+
+Georgia has a territorial tax system, that we don't have. Their capital looks much nicer than hours and their food is equally good, if not better. That being said, I believe Armenia has much stronger tech scene and that gap will only grow in the next years!
+
+## Travelling to Armenia
+
+### What to do?
+
+* Food & Wine - the classical benefits of a third-world country!
+* Visit historical sights:
+  * Garni
+  * Tatev
+* Art & Culture. I am not a big expert on this one, but here is what I enjoy:
+  * Listening to Duduk - out ethnic flute-like musical instrument.
+  * Watching traditional ethic dances or ballet in the main Opera building.
+* Active sports:
+  * Beautiful hiking tracks & mountains.
+  * Rafting on Hrazdan river.
+* Study! Armenia hosts some of the most advanced elementary and middle schools:
+  * AYB
+  * TUMO
+  * UWC Dilijan
+
+Unfortunatelly, the same can't be said about our universities today, but I predict the situation will change in 10 years!
+
+### Visa Requirements
+
+* We now have visa-free agreements with China. The first country with such status.
+* Russians don't even need an International documents to come. A local russian ID is enough!
+* Hopefully, visa-free and e-visa agreements with the EU and USA are coming soon.
+
+### Safety
+
+* People in Armenia are very open and friendly - it's safety level is on-par with Switzerland! Girls can walk in mini-skirts at night alone without being afraid of creeps.
+* Most people speak either Russian or English (often both), so you can always approach them for help!
+* USA and Russia have gigantic embassies in Yerevan, as some other countries. If you need help from your goverment officials - it's always available!
+
+## Photos from My Last Trip
