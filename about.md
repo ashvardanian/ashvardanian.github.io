@@ -3,24 +3,27 @@ layout: article
 title: Hey, I'm Ashot!
 ---
 
-I do all kinds of weird stuff, but mostly:
-* I research Artificial Intelligence, 
-* design high-performance software,
-* invest into tech stocks
-* and try to build my own company - [Unum](https://unum.xyz)!
+I am 25 yo and I do all kinds of stuff, but mostly:
 
-## Random Facts
+* Artificial Intelligence, 
+* High-Performance Computing and
+* Risky Investment Stretegies.
 
+## My Timeline
+
+👶🏻 Wrote my first line of code in the elementary school.<br/>
+👦🏻 Received my first freelance Web-Dev order in the middle school.<br/>
+🧔🏻 Launched my first profitable IT business in the high school.<br/>
+🔭 Dropped my Astrophysics degree. Twice.<br/>
+🏢 Already spent 5 years building [Unum](https://unum.xyz) without external funding.<br/>
 🌍 Visited over 50 countries across 4 continents, lived in 11 of them.<br/>
 👅 Fluent in Russian, Armenian & English. Intermediate in a few other languages. <br/>
-🔭 Dropped my Astrophysics degree. Twice.<br/>
-📚 First line of code: elementary school. Freelance Web-Dev: middle school. First profitable IT business: high school.<br/>
 💻 These days I code in C++ 20, Python, Swift & LISPs.<br/>
 
 ## Current Work
 
-- __Unum Framework for Artificial Intelligence__, that scales beyond traditional limits. [Read more...](https://unum.xyz)
-- __C* Programming Language__, that brings together the simplicity of Common LISP and power of C++. [Read more...](https://unum.xyz/cstar)
+- [Project Unum](https://unum.xyz), that aims to scale Artificial Intelligence beyond traditional limits.
+- [C* Programming Language](https://unum.xyz/cstar), that unites the simplicity of Common LISP and the power of C++. 
 
 ## My Lectures
 
