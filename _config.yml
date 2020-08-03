@@ -266,9 +266,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: wide
-      # author_profile: true
-      # read_time: true
-      # comments: true
-      # share: true
-      # related: true
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      toc: false
