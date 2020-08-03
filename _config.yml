@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Ashots' Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ashot Vardanian"
-description              : "Thoughts on AI, Computing and Society."
+subtitle                 : "Thoughts on AI, Computing and Society." # site tagline that appears below site title in masthead
+name                     : # "Ashot Vardanian"
+description              : #
 url                      : "https://ashvardanian.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ashvardanian/ashvardanian"
@@ -30,42 +30,32 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                : 675360535830513
     num_posts            : 5
     colorscheme          : "dark"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
 search_full_content      : true
-search_provider          : # lunr (default), algolia, google
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
-google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+search_provider          : "lunr" # lunr (default), algolia, google
+
 # SEO Related
-google_site_verification :
+google_site_verification : "DyjLzIKSn5qyPKfEY2dzpk8TyM1o_on2S5PnWoqul0M"
 bing_site_verification   :
-yandex_site_verification :
+yandex_site_verification : "34ceb40d73acc2fa"
 naver_site_verification  :
 
 # Social Sharing
@@ -272,14 +262,13 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: wide
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      # author_profile: true
+      # read_time: true
+      # comments: true
+      # share: true
+      # related: true

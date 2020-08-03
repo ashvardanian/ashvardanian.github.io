@@ -19,6 +19,14 @@ Unum is in stealth-mode until now, but certain details will be uncovered until t
 
 ## My Lectures
 
-- Computational graphs and AI in C++ @ Synopsys HQ in Palo Alto, CA, USA. [GitHub](https://github.com/ashvardanian/NeuralSTL).
-- Efficient GPGPU Programming @ JetBrains HQ in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube](https://youtu.be/BUtHOftDm_Y).
-- Deep dive into GPGPU programming @ CppRussia Conference in St. Petersburg, Russia. [GitHub](https://github.com/ashvardanian/SandboxGPUs), [YouTube]().
+- Computational graphs and AI in C++.
+  - Location: Synopsys HQ, Palo Alto, CA, USA. 
+  - [GitHub](https://github.com/ashvardanian/NeuralSTL).
+- Efficient GPGPU Programming.
+  - Location: JetBrains HQ, St. Petersburg, Russia. 
+  - [GitHub](https://github.com/ashvardanian/SandboxGPUs).
+  - [YouTube](https://youtu.be/BUtHOftDm_Y).
+- Deep dive into GPGPU programming.
+  - Location: CppRussia 2020 Conference, St. Petersburg, Russia. 
+  - [GitHub](https://github.com/ashvardanian/SandboxGPUs).
+  - [YouTube]().
