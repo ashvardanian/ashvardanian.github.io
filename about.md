@@ -33,4 +33,5 @@ I am 25 yo and I do all kinds of stuff, but mostly:
 - Artsakh Must Be Independent. Yerevan, Armenia. [YouTube](https://youtu.be/sN8CsCgDlHY).
 - A conversation about High Performance Computing @ Pure Virtual Cast #4. [YouTube](https://youtu.be/dCdBFB4LDjw).
 - SIMD = Performance you have already paid for @ CppRussia Online. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Conference](https://cppconf-piter.ru/en/2020/spb/talks/23g3egeumhe3p4fd66pbar/?fbclid=IwAR26hl3tEhw1os0J6oLzsVPTOAuSGkZIMzwq689tEq8NH5_V7b3MHV8f_zU).
+- SIMD. From Basic Terminology To Frequency Scaling Licenses And Speculative Execution @ Armenian C++ Community Meetup #1. [GitHub](https://github.com/ashvardanian/CppBenchSubstrSearch), [Youtube](https://youtu.be/ft51yJ9mDcc?t=140).
 
